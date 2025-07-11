@@ -22,10 +22,6 @@ Este repositorio centraliza la documentación y enlaces relacionados con los ser
 - [Telegram](https://github.com/tecgeoespaciales/Telegram)  
     Integración con la API de Telegram para notificaciones y bots.
 
-## Enlaces útiles
-
-- [Repositorio Telegram](https://github.com/tecgeoespaciales/Telegram)
-- [Repositorio Mosquitto](https://github.com/tecgeoespaciales/Mosquitto)
 
 ---
 
