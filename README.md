@@ -29,4 +29,3 @@ Este repositorio centraliza la documentación y enlaces relacionados con los ser
 
 ---
 
-> Actualiza los enlaces de los repositorios según corresponda.
