@@ -4,7 +4,7 @@ Este repositorio centraliza la documentación y enlaces relacionados con los ser
 
 ## Repositorios relacionados
 
-- [Aplicacion-Movil-Android](https://github.com/tecgeoespaciales/Aplicacion-Movil-iOS Aplicación móvil para dispositivos Android.
+- [Aplicacion-Movil-Android](https://github.com/tecgeoespaciales/Aplicacion-Movil-Android) Aplicación móvil para dispositivos Android.
 
 - [Aplicacion-Movil-iOS](https://github.com/tecgeoespaciales/Aplicacion-Movil-iOS)  Aplicación móvil para dispositivos iOS.
 
